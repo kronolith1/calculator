@@ -52,7 +52,7 @@ function decimalFunction() {
 function clearFunction(n) {
   num = '';
   numArray = []
-  updateScreen(num);
+  updateScreen(0);
 }
 
 function buttonClicked(e) {
