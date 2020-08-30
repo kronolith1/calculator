@@ -46,21 +46,19 @@ button:hover {
 }
 .all-clear {
     background-color: #794d61;
-    border-color: #b0353a;
     color: #fff;
 }
 .all-clear:hover {
     background-color: #f17377;
 }
 .equal-sign {
-    background-color: #16a085;
-    border-color: #337cac;
+    background-color: #006350;
     color: #fff;
     height: 100%;
     grid-area: 2 / 4 / 5 / 5;
 }
 .equal-sign:hover {
-    background-color: #4e9ed4;
+    background-color: #16a085;
 }
 .calculator-keys {
     display: grid;
